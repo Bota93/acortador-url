@@ -20,7 +20,7 @@ Proyecto creado con Next.js, TypeScript, Docker y PostgreSQL para acortar URLs y
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/acortador-url.git
+git clone https://github.com/Bota93/acortador-url.git
 cd acortador-url
 git checkout desarrollo
 ```
