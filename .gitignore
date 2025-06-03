@@ -1,0 +1,4 @@
+none_modules/
+.next/
+.env
+.prisma/
